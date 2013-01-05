@@ -23,7 +23,7 @@ projects[rooms][subdir] = contrib
 projects[rooms][version] = 1.x-dev
 projects[rooms][download][type] = git
 projects[rooms][download][url] = http://git.drupal.org/project/rooms.git
-projects[rooms][download][branch] = 7.x-1.x-dev
+projects[rooms][download][branch] = 7.x-1.x
 
 projects[libraries][type] = module
 projects[libraries][subdir] = contrib
