@@ -88,6 +88,13 @@ projects[views][download][type] = git
 projects[views][download][url] = http://git.drupal.org/project/views.git
 projects[views][download][branch] = 7.x-3.x
 
+projects[commerce][type] = module
+projects[commerce][subdir] = contrib
+projects[commerce][version] = 1.4
+projects[commerce][download][type] = git
+projects[commerce][download][url] = http://git.drupal.org/project/commerce.git
+projects[commerce][download][branch] = 7.x-1.x
+
 ; Themes =======================================================================
 projects[omega][type] = theme
 projects[omega][version] = 3.1
