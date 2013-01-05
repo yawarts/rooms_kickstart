@@ -27,5 +27,16 @@ dependencies[] = rdf
 
 ; Contributed modules
 dependencies[] = rooms
+dependencies[] = rooms_availability
+dependencies[] = rooms_availability_reference
+dependencies[] = rooms_booking
+dependencies[] = rooms_booking_manager
+dependencies[] = rooms_pricing
+dependencies[] = rooms_unit
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = rules
+dependencies[] = addresfield
+dependencies[] = date
 
 
