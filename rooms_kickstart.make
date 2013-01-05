@@ -23,7 +23,7 @@ projects[rooms][subdir] = contrib
 projects[rooms][version] = 1.x-dev
 projects[rooms][download][type] = git
 projects[rooms][download][url] = http://git.drupal.org/project/rooms.git
-projects[rooms][download][branch] = 7.x-1.x
+projects[rooms][download][branch] = 7.x-1.x-dev
 
 projects[libraries][type] = module
 projects[libraries][subdir] = contrib
@@ -31,6 +31,27 @@ projects[libraries][version] = 2.0
 projects[libraries][download][type] = git
 projects[libraries][download][url] = http://git.drupal.org/project/libraries.git
 projects[libraries][download][branch] = 7.x-2.x
+
+projects[date][type] = module
+projects[date][subdir] = contrib
+projects[date][version] = 2.6
+projects[date][download][type] = git
+projects[date][download][url] = http://git.drupal.org/project/date.git
+projects[date][download][branch] = 7.x-2.x
+
+projects[entity][type] = module
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.0
+projects[entity][download][type] = git
+projects[entity][download][url] = http://git.drupal.org/project/entity.git
+projects[entity][download][branch] = 7.x-1.x
+
+projects[colorbox][type] = module
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = 2.0
+projects[colorbox][download][type] = git
+projects[colorbox][download][url] = http://git.drupal.org/project/colorbox.git
+projects[colorbox][download][branch] = 7.x-2.x
 
 projects[omega_tools][type] = module
 projects[omega_tools][subdir] = contrib
