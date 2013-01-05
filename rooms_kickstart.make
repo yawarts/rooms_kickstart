@@ -99,7 +99,7 @@ projects[addressfield][type] = module
 projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 7.1-beta3
 projects[addressfield][download][type] = git
-projects[addressfield][download][url] = http://git.drupal.org/project/commerce.git
+projects[addressfield][download][url] = http://git.drupal.org/project/addressfield.git
 projects[addressfield][download][branch] = 7.x-1.x
 
 ; Themes =======================================================================
