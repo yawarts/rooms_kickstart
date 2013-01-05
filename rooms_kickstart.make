@@ -74,6 +74,20 @@ projects[wysiwyg][download][type] = git
 projects[wysiwyg][download][url] = http://git.drupal.org/project/wysiwyg.git
 projects[wysiwyg][download][branch] = 7.x-2.x
 
+projects[rules][type] = module
+projects[rules][subdir] = contrib
+projects[rules][version] = 2.2
+projects[rules][download][type] = git
+projects[rules][download][url] = http://git.drupal.org/project/rules.git
+projects[rules][download][branch] = 7.x-2.x
+
+projects[views][type] = module
+projects[views][subdir] = contrib
+projects[views][version] = 3.5
+projects[views][download][type] = git
+projects[views][download][url] = http://git.drupal.org/project/views.git
+projects[views][download][branch] = 7.x-3.x
+
 ; Themes =======================================================================
 projects[omega][type] = theme
 projects[omega][version] = 3.1
