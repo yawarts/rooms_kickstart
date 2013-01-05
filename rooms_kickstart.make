@@ -117,10 +117,10 @@ libraries[tinymce][download][type] = get
 libraries[tinymce][download][url] = http://github.com/downloads/tinymce/tinymce/tinymce_3.5.6.zip
 libraries[tinymce][download][branch] = 3.4.x
 
-libraries[tinymce][type] = library
-libraries[tinymce][download][type] = get
-libraries[tinymce][download][url] = http://www.drupalrooms.com/sites/default/files/fullcalendar-1.5.4.zip
+libraries[fullcalendar][type] = library
+libraries[fullcalendar][download][type] = get
+libraries[fullcalendar][download][url] = http://www.drupalrooms.com/sites/default/files/fullcalendar-1.5.4.zip
 
-libraries[tinymce][type] = library
-libraries[tinymce][download][type] = get
-libraries[tinymce][download][url] = http://colorpowered.com/colorbox/colorbox.zip
+libraries[colorbox][type] = library
+libraries[colorbox][download][type] = get
+libraries[colorbox][download][url] = http://colorpowered.com/colorbox/colorbox.zip
